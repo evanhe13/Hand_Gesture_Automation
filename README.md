@@ -1,6 +1,6 @@
 # Hand_Gesture_Automation
 
-<span style="color:blue">some *blue* text</span>.
+`Computer macros activated by hand gesture`
 
 ## Materials
 
@@ -15,11 +15,11 @@ The project consists of two parts:
 
 ### Part 1: Camera Stream with ESP32-CAM
 
-The ESP32-CAM code in the [provided complementary code](#complementary-code-for-uploading-images-to-a-web-server) allows you to set up the ESP32-CAM module to capture photos and stream them to a web server. The web server runs locally and provides a live video feed of the camera. The server can be accessed through a web browser.
+The ESP32-CAM code in the [provided complementary code](#complementary-code-for-uploading-images-to-a-web-server) allows you to set up the ESP32-CAM module to capture video and stream it to a web server. The web server runs locally and provides a live feed of the camera. The server can be accessed through a web browser.
 
 ### Part 2: Hand Gesture Analysis
 
-This part involves capturing screenshots from an online video feed and enhancing the selected screenshot using image processing. It then analyzes hand landmarks in the enhanced screenshot using the MediaPipe HandPose model. Different hand gestures, such as thumbs-up, thumbs-down, high-five, and a custom "Hook 'em" gesture, are detected. The detected gestures trigger specific actions, such as controlling system volume, showing/hiding the desktop, and opening a web link. 
+Screenshots from the online video feed are captured and enhanced using image processing. Hand landmarks are detected from the enhanced screenshot using the MediaPipe HandPose model. Different hand gestures, such as thumbs-up, thumbs-down, high-five, and a custom "Hook 'em" gesture, are detected. The detected gestures trigger specific computer macros, such as controlling system volume, showing/hiding the desktop, and opening specific web links. 
 
 ## Author
 
@@ -33,6 +33,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 - This project is inspired by the work of various contributors and the [MediaPipe library](https://mediapipe.dev/).
 - Special thanks to [Rui Santos](https://RandomNerdTutorials.com) for the ESP32-CAM complementary code.
+- A course project for Biomedical Instrumentation (BME 349), taught by Dr. Andrew Dunn, at the University of Texas at Austin.
 
 ## References
 
