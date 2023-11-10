@@ -1,6 +1,6 @@
 # Hand_Gesture_Automation
 
-`Computer macros activated by hand gesture` 
+<span style="color:blue">some *Computer macros activated by hand gesture* text</span>.
 
 ## Materials
 
