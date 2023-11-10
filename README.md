@@ -5,7 +5,7 @@ This project allows you to control various actions on a Windows machine using ha
 ## Materials
 
 - [Arduino IDE](https://www.arduino.cc/en/software) or platform of your choice.
-- [ESP32-CAM]([https://randomnerdtutorials.com/esp32-cam-ai-thinker-review-pinout-flashing-arduino/](https://www.amazon.com/ESP32-CAM-MB-Aideepen-ESP32-CAM-Bluetooth-Arduino/dp/B0948ZFTQZ/ref=nav_signin?pd_rd_w=6Gozh&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=ZC7J1YECAFRRQ63EQSP6&pd_rd_wg=SEUPN&pd_rd_r=3a202dec-62d0-456d-b5b6-d29e17673c41&pd_rd_i=B0948ZFTQZ&psc=1)) module.
+- [ESP32-CAM]([https://www.amazon.com/ESP32-CAM-MB-Aideepen-ESP32-CAM-Bluetooth-Arduino/dp/B0948ZFTQZ/ref=nav_signin?pd_rd_w=6Gozh&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=ZC7J1YECAFRRQ63EQSP6&pd_rd_wg=SEUPN&pd_rd_r=3a202dec-62d0-456d-b5b6-d29e17673c41&pd_rd_i=B0948ZFTQZ&psc=1]) module.
 - [Wifi Antenna]([https://www.amazon.com/Diymall-Antenna-Antennas-Arduino-ESP-072pcs/dp/B00ZBJNO9O/ref=sr_1_2?crid=2X8JFRVZCAJ45&keywords=antenna+arduino&qid=1699657997&s=electronics&sprefix=antenna+arduino%2Celectronics%2C153&sr=1-2]) for ESP32-CAM.
 - A local Wi-Fi network to connect your ESP32-CAM.
 
