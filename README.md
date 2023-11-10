@@ -1,6 +1,6 @@
 # Hand_Gesture_Automation
 
-This project allows you to control various actions on a Windows machine using hand gestures captured by an ESP32-CAM. 
+`Computer macros activated by hand gesture` 
 
 ## Materials
 
